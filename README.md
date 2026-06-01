@@ -1,6 +1,6 @@
 # iTickerCore
 
-The open **core** of [iTicker](https://apps.apple.com/) — a finance portfolio tracker for
+The open **core** of **iTicker** — a finance portfolio tracker for
 macOS, iPadOS, and iOS. This Swift package contains all the non‑UI logic: market‑data
 providers, exchange connectivity, P/L math, search, and currency handling. The app's UI
 is closed‑source; **this core is open so anyone can audit exactly how it talks to the
