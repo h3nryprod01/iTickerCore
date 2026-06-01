@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "symbol": "TSLA",
+          "currency": "USD",
+          "regularMarketPrice": 180.0,
+          "previousClose": 195.0,
+          "shortName": "Tesla, Inc.",
+          "longName": "Tesla, Inc."
+        },
+        "timestamp": [1700000000, 1700003600],
+        "indicators": {
+          "quote": [
+            {
+              "open": [195.0, 190.0],
+              "high": [196.0, 191.0],
+              "low": [182.0, 179.0],
+              "close": [190.0, 180.0],
+              "volume": [5000000, 6000000]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

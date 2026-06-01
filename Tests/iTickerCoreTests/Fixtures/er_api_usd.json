@@ -1,0 +1,17 @@
+{
+  "result": "success",
+  "provider": "https://www.exchangerate-api.com",
+  "documentation": "https://www.exchangerate-api.com/docs/free",
+  "terms_of_use": "https://www.exchangerate-api.com/terms",
+  "time_last_update_unix": 1716940800,
+  "time_last_update_utc": "Thu, 29 May 2025 00:00:00 +0000",
+  "time_next_update_unix": 1717027200,
+  "time_next_update_utc": "Fri, 30 May 2025 00:00:00 +0000",
+  "base_code": "USD",
+  "rates": {
+    "USD": 1.0,
+    "VND": 25400.0,
+    "EUR": 0.92,
+    "JPY": 157.3
+  }
+}

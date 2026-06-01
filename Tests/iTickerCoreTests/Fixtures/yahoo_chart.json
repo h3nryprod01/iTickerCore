@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "symbol": "AAPL",
+          "currency": "USD",
+          "regularMarketPrice": 189.5,
+          "previousClose": 187.0,
+          "shortName": "Apple Inc.",
+          "longName": "Apple Inc."
+        },
+        "timestamp": [1700000000, 1700003600, 1700007200, 1700010800],
+        "indicators": {
+          "quote": [
+            {
+              "open": [187.1, 188.0, 188.5, 189.0],
+              "high": [188.5, 189.2, 189.8, 190.1],
+              "low": [186.8, 187.5, 188.0, 188.5],
+              "close": [188.0, 188.8, 189.2, 189.5],
+              "volume": [1234567, 2345678, 1987654, 3456789]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

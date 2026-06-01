@@ -1,0 +1,25 @@
+{
+  "coins": [
+    {
+      "id": "bitcoin",
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "market_cap_rank": 1,
+      "thumb": "https://assets.coingecko.com/coins/images/1/thumb/bitcoin.png"
+    },
+    {
+      "id": "bitcoin-cash",
+      "name": "Bitcoin Cash",
+      "symbol": "BCH",
+      "market_cap_rank": 15,
+      "thumb": "https://assets.coingecko.com/coins/images/780/thumb/bitcoin-cash-circle.png"
+    },
+    {
+      "id": "bitcoin-sv",
+      "name": "Bitcoin SV",
+      "symbol": "BSV",
+      "market_cap_rank": 50,
+      "thumb": "https://assets.coingecko.com/coins/images/6799/thumb/BSV.png"
+    }
+  ]
+}

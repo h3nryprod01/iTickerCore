@@ -1,0 +1,20 @@
+[
+  {
+    "id": "bitcoin",
+    "symbol": "btc",
+    "name": "Bitcoin",
+    "current_price": 67234.0,
+    "price_change_24h": 1234.5,
+    "price_change_percentage_24h": 1.87,
+    "total_volume": 23456789012.0
+  },
+  {
+    "id": "dogecoin",
+    "symbol": "doge",
+    "name": "Dogecoin",
+    "current_price": null,
+    "price_change_24h": null,
+    "price_change_percentage_24h": null,
+    "total_volume": null
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "symbol": "MSFT",
+          "currency": "USD",
+          "regularMarketPrice": 420.0,
+          "previousClose": 415.0,
+          "shortName": "Microsoft Corp",
+          "longName": "Microsoft Corporation"
+        },
+        "timestamp": [1700000000, 1700003600, 1700007200, 1700010800],
+        "indicators": {
+          "quote": [
+            {
+              "open": [419.0, null, 420.5, 421.0],
+              "high": [421.0, null, 422.0, 422.5],
+              "low": [418.5, null, 420.0, 420.5],
+              "close": [420.0, null, 421.0, 420.5],
+              "volume": [5000000, null, 4800000, 5200000]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

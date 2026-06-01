@@ -1,0 +1,34 @@
+{
+  "finance": {
+    "result": [
+      {
+        "quotes": [
+          {
+            "symbol": "AAPL",
+            "shortname": "Apple Inc.",
+            "longname": "Apple Inc.",
+            "quoteType": "EQUITY",
+            "exchange": "NMS",
+            "score": 1722710.0
+          },
+          {
+            "symbol": "AAPL.BA",
+            "shortname": "Apple Inc.",
+            "longname": null,
+            "quoteType": "EQUITY",
+            "exchange": "BUE",
+            "score": 8204.0
+          },
+          {
+            "symbol": "AAPLX",
+            "shortname": "Nationwide Amundi Strategic Income",
+            "longname": "Nationwide Amundi Strategic Income",
+            "quoteType": "MUTUALFUND",
+            "exchange": "NAS",
+            "score": 1000.0
+          }
+        ]
+      }
+    ]
+  }
+}

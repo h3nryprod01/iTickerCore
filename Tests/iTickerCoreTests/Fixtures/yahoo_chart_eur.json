@@ -1,0 +1,29 @@
+{
+  "chart": {
+    "result": [
+      {
+        "meta": {
+          "symbol": "AIR.PA",
+          "currency": "EUR",
+          "regularMarketPrice": 165.32,
+          "previousClose": 163.0,
+          "shortName": "Airbus SE",
+          "longName": "Airbus SE"
+        },
+        "timestamp": [1700000000, 1700003600],
+        "indicators": {
+          "quote": [
+            {
+              "open": [163.5, 164.0],
+              "high": [166.0, 166.5],
+              "low": [163.0, 164.5],
+              "close": [164.0, 165.32],
+              "volume": [500000, 450000]
+            }
+          ]
+        }
+      }
+    ],
+    "error": null
+  }
+}

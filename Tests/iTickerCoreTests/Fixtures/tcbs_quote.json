@@ -1,0 +1,11 @@
+{
+  "data": [
+    {
+      "ticker": "FPT",
+      "lastPrice": 72.9,
+      "priceChange": 1.5,
+      "priceChangeRatio": 0.0210,
+      "totalVolume": 3456789.0
+    }
+  ]
+}
